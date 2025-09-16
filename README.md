@@ -8,7 +8,7 @@ https://youtu.be/yUTVgjbC4qc
 
 1. **Database Configuration**
    - Create a cluster on MongoDB Cloud and add the connection URI to a `.env` file, or
-   - Replace the URI with `mongodb://localhost` if using MongoDB locally
+   - Replace the connection string with `mongodb://localhost` if using MongoDB locally
 
 2. **Install Dependencies**
    ```bash
